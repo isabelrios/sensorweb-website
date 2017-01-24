@@ -41,3 +41,10 @@ Assets (images, etc.) are included in the `src/assets` folder and referenced by 
 
 Under the hood, Webpack copies that file to the output directory using an opaque name. Files which are not referenced are not included in the output; this avoids bundling unused files.
 
+## Run Tests
+
+### Run Selenium Tests
+
+```
+mocha tests/*
+´´´
