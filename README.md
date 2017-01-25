@@ -46,5 +46,5 @@ Under the hood, Webpack copies that file to the output directory using an opaque
 ### Run Selenium Tests
 
 ```
-mocha tests/*
+mocha tests/selenium_tests/*
 ´´´
